@@ -1,0 +1,18 @@
+{
+  "train_size": 1750,
+  "test_size": 750,
+  "accuracy": 0.968,
+  "confusion_matrix": {
+    "TN": 364,
+    "FP": 8,
+    "FN": 16,
+    "TP": 362
+  },
+  "intercept": 2.1437758245512937,
+  "coefficients": {
+    "words": 1.6623471909253678,
+    "links": 2.3061750456782595,
+    "capital_words": 3.5510462949284207,
+    "spam_word_count": 2.3755518379132243
+  }
+}
